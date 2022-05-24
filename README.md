@@ -13,7 +13,6 @@
 <img width="6%" title="JUnit5" src="https://starchenkov.pro/qa-guru/img/skills/JUnit5.svg">
 <img width="6%" title="GitHub" src="https://starchenkov.pro/qa-guru/img/skills/Github.svg">
 <img width="6%" title="Jenkins" src="https://starchenkov.pro/qa-guru/img/skills/Jenkins.svg">
-<img width="6%" title="Telegram" src="https://starchenkov.pro/qa-guru/img/skills/Telegram.svg">
 <img width="6%" title="Browserstack" src="https://starchenkov.pro/qa-guru/img/skills/Browserstack.svg">
 <img width="6%" title="Jira" src="https://starchenkov.pro/qa-guru/img/skills/Jira.svg">
 <img width="6%" title="Appium" src="https://starchenkov.pro/qa-guru/img/skills/Appium.svg">
