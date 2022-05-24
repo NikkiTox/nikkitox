@@ -1,7 +1,7 @@
 # Hi there 👋
-##***I'm Nikita - Junior QA Automation Engineer***
+## ***I'm Nikita - Junior QA Automation Engineer***
 
-#<p align="center">My technological stack</p>
+# <p align="center">My technological stack</p>
 <p align="center">
 <img width="6%" title="IntelliJ IDEA" src="https://starchenkov.pro/qa-guru/img/skills/Intelij_IDEA.svg">
 <img width="6%" title="Java" src="https://starchenkov.pro/qa-guru/img/skills/Java.svg">
