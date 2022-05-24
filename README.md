@@ -1,7 +1,7 @@
 # Hi there 👋
-##***I'm Nikita - Junior QA Automation Engineer***
+## ***I'm Nikita - Junior QA Automation Engineer***
 
-##<p align="center">My technological stack</p>
+## <p align="center">My technological stack</p>
 <p align="center">
 <img width="6%" title="IntelliJ IDEA" src="images/Intelij_IDEA.svg">
 <img width="6%" title="Java" src="images/Java.svg">
@@ -16,10 +16,10 @@
 <img width="6%" title="Browserstack" src="images/Browserstack.svg">
 </p>
 
-##GitHub Owner Statistic
+## GitHub Owner Statistic
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NikkiTox&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-##Find me
+## Find me
 [![Telegram](src="images/Telegram.svg")](https://t.me/Nikkitox)
 
 <!--
