@@ -21,10 +21,10 @@
 <img width="6%" title="Docker" src="https://starchenkov.pro/qa-guru/img/skills/Docker.svg">
 </p>
 
-##GitHub Owner Statistic
+## GitHub Owner Statistic
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NikkiTox&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-##Find me
+## Find me
 [<img src='https://cdn.icon-icons.com/icons2/2429/PNG/128/telegram_logo_icon_147228.png' alt='telegram' height='42'>](https://t.me/Nikkitox)
 [<img src='https://cdn.icon-icons.com/icons2/808/PNG/128/vk_icon-icons.com_66102.png' alt='vk' height='42'>](https://vk.com/nikkitox)
 [<img src='https://cdn.icon-icons.com/icons2/1211/PNG/128/1491580635-yumminkysocialmedia26_83102.png' alt='instagram' height='42'>](https://instagram.com/nikki_inox)
