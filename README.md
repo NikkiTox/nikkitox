@@ -22,6 +22,7 @@
 
 ## GitHub Owner Statistic
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NikkiTox&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NikkiTox&theme=tokyonight)
 
 ## Find me
 [<img src='https://cdn.icon-icons.com/icons2/2429/PNG/128/telegram_logo_icon_147228.png' alt='telegram' height='42'>](https://t.me/Nikkitox)
